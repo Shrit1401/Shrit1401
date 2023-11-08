@@ -1,5 +1,5 @@
 # Hi, I'm Shrit Shrivastava aka Shrit1401 👋🏾 👩🏾‍💻
-![Profile views](https://gpvc.arturio.dev/Shrit1401) 
+![Profile views]([https://gpvc.arturio.dev/Shrit1401](https://komarev.com/ghpvc/?username=shrit1401)) 
 <img src="https://i.imgur.com/8R8XlY8.png" alt="banner that says Shrit Shrivastava">
 Greeting! I am versed in coding and performing front-end web development, along with taking on part-time design work. Additionally, I serve as the president of Nexus, a club devoted to teaching school
 
